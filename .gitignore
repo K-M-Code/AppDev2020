@@ -1,4 +1,4 @@
-.txt
+*.txt
 *.o
 *.exe
-score/
+score
