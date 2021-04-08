@@ -11,7 +11,7 @@
 #define MAX 30
 
 // We dont use complex data structure in this program
-
+// Added comment
 void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
